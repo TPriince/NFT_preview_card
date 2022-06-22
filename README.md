@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://drive.google.com/uc?export=view&id=120PqQCy3L_PtBHwsKIARmltuDuaAcKCV/view?usp=sharing" alt="nft preview card screenshot" />
+<img src="https://drive.google.com/uc?export=view&id=120PqQCy3L_PtBHwsKIARmltuDuaAcKCV" alt="nft preview card screenshot" />
 
 
 ### Links
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TPrince)
+- Frontend Mentor - [@TPrince](https://www.frontendmentor.io/profile/TPrince)
 - Twitter - [@T_Priincee](https://www.twitter.com/T_Priincee)
