@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [NFT preview card component live site](https://tpriince.github.io/NFT_preview_card/)
 
 ## My process
 
