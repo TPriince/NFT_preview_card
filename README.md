@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@TPrince](https://www.frontendmentor.io/profile/TPrince)
+- Frontend Mentor - [@TPriince](https://www.frontendmentor.io/profile/TPriince)
 - Twitter - [@T_Priincee](https://www.twitter.com/T_Priincee)
