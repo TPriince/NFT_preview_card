@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://drive.google.com/uc?export=view&id=120PqQCy3L_PtBHwsKIARmltuDuaAcKCV" alt="nft preview card screenshot" />
+<img src="https://drive.google.com/uc?export=view&id=14BLbwiE1ubcgnfzplgXc4isn5C-VdqC7" alt="nft preview card screenshot" />
 
 
 ### Links
